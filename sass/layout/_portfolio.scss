@@ -99,12 +99,13 @@
       opacity: 1;
     }
   }
+
+  &-img {
+    display: block;
+    margin: 0;
+  }
 }
 
-.portfolio-img {
-  display: block;
-  margin: 0;
-}
 .port-link {
   text-decoration: none;
 }
