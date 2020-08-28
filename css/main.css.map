@@ -5,7 +5,7 @@
         "../sass/main.scss",
         "../sass/utils/_variables.scss",
         "../sass/utils/_normalize.scss",
-        "../sass/base/_fonts.scss",
+        "../sass/utils/_fonts.scss",
         "../sass/base/_general.scss",
         "../sass/components/_button.scss",
         "../sass/components/_form.scss",
